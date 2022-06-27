@@ -1,2 +1,2 @@
  #!/bin/bash
-HELLO WORLD ls > 0-hello_world
+hello_world
